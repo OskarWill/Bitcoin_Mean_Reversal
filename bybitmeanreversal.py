@@ -742,8 +742,8 @@ if __name__ == "__main__":
     timestamp = int(time.time()*1000) + 2500
 
 
-    api_domain = {"live": "gYLejbEmG7CX49s8iI", "test": "kqqAWmGlLz97i6PeUi"} #Ontario IP: "JOY4FE04n78T30XJ0r"}
-    secret = {"live": "xb6lFLoF2fxQSzu1h24YFmZoZJ87", "test": "1cLjP6HsXh0ZJXIFwv0oVxkiuYcqy0tfLMMZ"} #"h7UObGL1FcTYtezWuNH9qolfY32uSAVaShlC"}
+    api_domain = {"live": "", "test": ""} 
+    secret = {"live": "", "test": ""} 
     url_domain = {"live": "https://api.bybit.com", "test": "https://api-testnet.bybit.com"}
 
     domain = "test"
